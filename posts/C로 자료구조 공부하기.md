@@ -1,5 +1,5 @@
 ---
-description: (Github의 Pull Request를 통해 자료구조를 공부합니다.)
+description: Github의 Pull Request를 통해 자료구조를 공부합니다
 ---
 [해당 Repository](https://github.com/mansukim1125/c-data-structure-study)는 C언어로 자료구조를 공부하는 Repository입니다. 매 주마다 한 주제에 관한 문제가 제시됩니다. 누구나 풀어서 제출(Pull Request)할 수 있습니다.
 
