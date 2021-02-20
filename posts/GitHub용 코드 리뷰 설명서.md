@@ -1,3 +1,7 @@
+---
+description: Github의 Pull Request를 통해 Code Review를 법을 알아봅니다
+---
+
 # 하는 이유?
 
 - Git이나 GitHub를 활용하는 방법을 익히기 위해
