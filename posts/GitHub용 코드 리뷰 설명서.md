@@ -1,5 +1,5 @@
 ---
-description: Github의 Pull Request를 통해 Code Review를 법을 알아봅니다
+description: Github의 Pull Request를 통해 Code Review를 하는 법을 알아봅니다
 ---
 
 # 하는 이유?
