@@ -36,7 +36,7 @@ description: Github의 Pull Request를 통해 자료구조를 공부합니다
 
 1. 1주 1주제 공부
 2. 한 장(예: 트리)이 완전히 끝나면 문제 결정하기. 문제 결정은 Issue를 만들어 결정
-3. 문제를 1주에 걸쳐 해결하고 [GitHub Pull Request](https://mansu.ga/blog/posts/GitHub용 코드 리뷰 설명서)를 활용하여 코드 리뷰하기.
+3. 문제를 1주에 걸쳐 해결하고 [GitHub Pull Request](https://mansu.ga/blog/posts/GitHub%EC%9A%A9%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EC%84%A4%EB%AA%85%EC%84%9C)를 활용하여 코드 리뷰하기.
 
 ## 참여하기
 
