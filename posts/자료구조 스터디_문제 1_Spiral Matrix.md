@@ -2,7 +2,7 @@
 description: 1주차 자료구조 스터디 문제(Spiral Matrix)를 해결해봅니다.
 ---
 
-코드 리뷰를 하는 방법은 [이 글](http://localhost:8080/blog/posts/GitHub%EC%9A%A9%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EC%84%A4%EB%AA%85%EC%84%9C)을 참고해 주십시오.
+코드 리뷰를 하는 방법은 [이 글](/blog/posts/GitHub%EC%9A%A9%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EC%84%A4%EB%AA%85%EC%84%9C)을 참고해 주십시오.
 
 ## 문제
 
