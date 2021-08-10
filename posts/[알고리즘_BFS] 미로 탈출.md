@@ -1,5 +1,6 @@
 ---
 description: '이것이 코딩 테스트다'의 BFS 알고리즘 문제를 풀어 봅니다.
+tag: Algorithm
 ---
 
 ## 문제
